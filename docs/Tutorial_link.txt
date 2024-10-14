@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=8fByoLr2jBc&t=476s
+
+Instruction file link: https://malachicode.notion.site/How-to-Make-a-CRUD-SPA-Hotwire-Best-Fundamentals-f00f2c58b9364a18a19e9dc74c46a202
